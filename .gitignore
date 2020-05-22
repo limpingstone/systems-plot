@@ -130,3 +130,6 @@ dmypy.json
 
 # Local archive folder
 _archive/
+
+# Vim backups
+.*.un~
